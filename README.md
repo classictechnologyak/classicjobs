@@ -1,7 +1,6 @@
 # classicjobs
 Classicjobs.in Latest Live Project For Job Openings For Freshers
-
-classicjobs.in
+*classicjobs.in*
 classicjobs.in is a platform dedicated to providing job opportunities for fresher IT students. It focuses on technologies such as HTML, CSS, JavaScript, and WordPress.
 
 Features
